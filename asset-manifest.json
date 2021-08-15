@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/decimal-clock/static/css/main.f350a3d7.chunk.css",
+    "main.js": "/decimal-clock/static/js/main.b35c7326.chunk.js",
+    "main.js.map": "/decimal-clock/static/js/main.b35c7326.chunk.js.map",
+    "runtime-main.js": "/decimal-clock/static/js/runtime-main.fe980f6f.js",
+    "runtime-main.js.map": "/decimal-clock/static/js/runtime-main.fe980f6f.js.map",
+    "static/js/2.5641a940.chunk.js": "/decimal-clock/static/js/2.5641a940.chunk.js",
+    "static/js/2.5641a940.chunk.js.map": "/decimal-clock/static/js/2.5641a940.chunk.js.map",
+    "static/js/3.d83e7827.chunk.js": "/decimal-clock/static/js/3.d83e7827.chunk.js",
+    "static/js/3.d83e7827.chunk.js.map": "/decimal-clock/static/js/3.d83e7827.chunk.js.map",
+    "index.html": "/decimal-clock/index.html",
+    "static/css/main.f350a3d7.chunk.css.map": "/decimal-clock/static/css/main.f350a3d7.chunk.css.map",
+    "static/js/2.5641a940.chunk.js.LICENSE.txt": "/decimal-clock/static/js/2.5641a940.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe980f6f.js",
+    "static/js/2.5641a940.chunk.js",
+    "static/css/main.f350a3d7.chunk.css",
+    "static/js/main.b35c7326.chunk.js"
+  ]
+}
