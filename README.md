@@ -1,1 +1,5 @@
-# rtparsons.github.io
+# robp.dev
+
+## Running
+
+`bundle exec jekyll serve`
