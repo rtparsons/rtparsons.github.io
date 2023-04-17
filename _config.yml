@@ -23,11 +23,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   © Rob Parsons 2023
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robp.dev"
-github_username:  rtparsons
+github_username: rtparsons
+google_analytics: G-XHHBBLWH4D
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
