@@ -1,0 +1,4 @@
+Add picture to adapter
+Add diagram to adapter
+
+

@@ -15,7 +15,7 @@ To solve this problem, we can create an adapter class that inherits from the exi
 
 Here's an example. Suppose we have two existing classes `SupermarketOne` and `SupermarketTwo`. They both have their own functions for getting products with prices but return the data in different formats.
 
-```
+```python
 class SupermarketOne:
     def get_products(self):
         return {'apples': 0.2,
@@ -35,7 +35,7 @@ Now suppose we want to combine the data from the two classes so that we can save
 
 To solve this problem, we can create an adapter class for `SupermarketTwo` called `SupermarketTwoAdapter` that brings the feed in line with `SupermarketOne`. Here's how this can be done:
 
-```
+```python
 class SupermarketTwoAdapter:
 
     def __init__(self, supermarket_two):
@@ -50,7 +50,7 @@ In this implementation, `SupermarketTwoAdapter` takes an instance of `Supermarke
 
 Now, thanks to duck typing we can use `SupermarketTwoAdapter` and `SupermarketOne` interchangeably so that the calling code doesn't need to know which type of supermarket we are providing. For example:
 
-```
+```python
 supermarkets = [SupermarketOne(),
                 SupermarketTwoAdapter(SupermarketTwo())]
 for supermarket in supermarkets:
