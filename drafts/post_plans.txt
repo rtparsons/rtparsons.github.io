@@ -1,4 +1,6 @@
 Add picture to adapter
 Add diagram to adapter
+Add diagram to strategy
+
 
 
