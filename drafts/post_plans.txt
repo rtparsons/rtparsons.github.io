@@ -1,6 +1,22 @@
 Add picture to adapter
 Add diagram to adapter
 Add diagram to strategy
+Cloudflare
+
+Singleton pattern
+Observer
+Higher order functions
+Monads
+List comprehention vs generator expressions
+unit testing
+the stopping problem
+the travelling salesman
+kill it with fire
+Data structures and algorithms
+Scrum vs sprint
+Reading list
+URL throttler
+DNS
 
 
 
