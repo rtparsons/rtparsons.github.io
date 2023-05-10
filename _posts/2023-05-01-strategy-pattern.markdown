@@ -3,6 +3,7 @@ layout: post
 title:  "The strategy pattern in python"
 date:   2023-05-01 20:00:00 +0000
 categories: python design-patterns
+permalink: /the-strategy-pattern-in-python/
 ---
 
 The Strategy Pattern is a behavioral pattern that defines a set of algorithms, encapsulates each one, and makes them interchangeable within a context. This pattern allows the algorithms to vary independently of the clients that use them. The Strategy Pattern is useful when we have multiple algorithms that can be used to solve a problem, and we want to choose the best one for the situation at runtime.

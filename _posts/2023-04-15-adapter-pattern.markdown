@@ -3,6 +3,7 @@ layout: post
 title:  "The adapter pattern in python"
 date:   2023-04-15 20:00:00 +0000
 categories: python design-patterns
+permalink: /the-adapter-pattern-in-python/
 ---
 
 The Adapter pattern is a design pattern that allows objects with incompatible interfaces to work together. It provides a way to convert the interface of an object into another interface that clients expect. This pattern is especially useful in situations where existing code needs to be integrated with new code that has different interfaces.

@@ -3,6 +3,7 @@ layout: post
 title:  "Testing for slow external Javascript files"
 date:   2023-05-08 20:00:00 +0000
 categories: javascript web
+permalink: /testing-for-slow-external-js/
 ---
 
 I recently came across an issue where a web page would "hang". The page was loaded and everything visible, but all javascript functionality such as click handlers were un-responsive. That was until the page had finished loading a minute later and it all came back to life.
