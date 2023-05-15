@@ -2,6 +2,7 @@ Add picture to adapter
 Add diagram to adapter
 Add diagram to strategy
 Cloudflare
+Add short descriptions to main page
 
 Singleton pattern
 Observer
@@ -16,6 +17,6 @@ Data structures and algorithms
 Scrum vs sprint
 Reading list
 DNS
-
+Javascript for of vs for in
 
 
