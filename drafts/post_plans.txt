@@ -15,7 +15,6 @@ kill it with fire
 Data structures and algorithms
 Scrum vs sprint
 Reading list
-URL throttler
 DNS
 
 
