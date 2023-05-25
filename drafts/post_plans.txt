@@ -2,7 +2,6 @@ Add picture to adapter
 Add diagram to adapter
 Add diagram to strategy
 Cloudflare
-Add short descriptions to main page
 
 Singleton pattern
 Observer

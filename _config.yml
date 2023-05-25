@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robp.dev"
 github_username: rtparsons
 google_analytics: G-XHHBBLWH4D
+show_excerpts: true
 
 # Build settings
 remote_theme: jekyll/minima
