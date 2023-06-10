@@ -6,7 +6,7 @@ categories: python algorithms
 permalink: /selection-sort/
 ---
 
-Second in my series of dives into sorting algorithms is selection sort. After [/bubble-sort-python/](bubble sort), I wanted to pick another fairly basic algorithm to implement and see if I could optimize it a little further.
+Second in my series of dives into sorting algorithms is selection sort. After [bubble sort](/bubble-sort-python/), I wanted to pick another fairly basic algorithm to implement and see if I could optimize it a little further.
 
 ### What is selection sort
 
