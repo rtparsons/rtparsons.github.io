@@ -10,9 +10,9 @@ def merge_sort(to_sort: list):
     
     mid_point: int = len(to_sort) // 2
     left: list = to_sort[:mid_point]
-    right: list = to_sort[mid_point:]
-
     merge_sort(left)
+
+    right: list = to_sort[mid_point:]
     merge_sort(right)
 
     for i in range(len(to_sort)):
