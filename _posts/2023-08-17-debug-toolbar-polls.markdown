@@ -19,6 +19,7 @@ The version of the polls app I went through didn't have these elements included.
 To solve this I added a reusable base page. Create a file called base_page.html in polls/templates/polls with the following.
 
 ```
+{% raw %}
 {% load static %}
 
 <html>
@@ -29,11 +30,13 @@ To solve this I added a reusable base page. Create a file called base_page.html 
         {% block content %}{% endblock content %}
    </body>
 </html>
+{% endraw %}
 ```
 
 Then update index.html in polls/templates/polls to use the new base page.
 
 ```
+{% raw %}
 {% extends "polls/base_page.html" %}
 
 {% block content %}
@@ -47,6 +50,7 @@ Then update index.html in polls/templates/polls to use the new base page.
         <p>No polls are available.</p>
     {% endif %}
 {% endblock content %}
+{% endraw %}
 ```
 
 And that's it! You should now see the debug toolbar on the index page. If you want to see it on the other pages too, just add the base_page there too.
