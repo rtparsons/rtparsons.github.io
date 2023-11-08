@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The factory pattern in Python"
+title:  "Factory pattern in Python"
 date:   2023-07-10 20:00:00 +0000
 categories: python design-patterns
 permalink: /the-factory-pattern-in-python/
