@@ -14,6 +14,7 @@ To debug the application I use [debugpy](https://londonappdeveloper.com/debuggin
 
 Template:
 ```
+{% raw %}
 <html>
     <body>
         <form method="post">
@@ -23,6 +24,7 @@ Template:
         </form>
     </body>
 </html>
+{% endraw %}
 ```
 
 View:
