@@ -19,6 +19,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
+git_source(:github) { |repo_name| "https://github.com/rtparsons/rtparsons.github.io" }
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
